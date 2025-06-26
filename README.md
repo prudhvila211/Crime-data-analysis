@@ -45,8 +45,7 @@ All reports are in the Report/ folder:
 
  🧪 How to Run
 Install required libraries:
-## 📸 Dashboard Preview
+## 📊 Dashboard Screenshot
 
-![Dashboard Page 1](Images/dashboard_page1.png)
-
+![Dashboard Screenshot](Images/dashboard_page1.png)
 
