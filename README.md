@@ -45,7 +45,13 @@ All reports are in the Report/ folder:
 
  🧪 How to Run
 Install required libraries:
-## 📊 Dashboard Screenshot
+# 📸 Dashboard Screenshots
 
-![Dashboard Screenshot](Images/dashboard_page1.png)
+### 🟩 Crime Overview
+![Crime Chart](Images/crime.png)
 
+### 🟦 Analysis View
+![Analysis Chart](Images/analysis.png)
+
+### 🟨 Data Breakdown
+![Data Table](Images/data.png)
